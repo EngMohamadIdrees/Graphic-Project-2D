@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1579554927 source:h:\c++ programs\graphics project\main.cpp
+	<map>
+	<tchar.h>
+	<windows.h>
+	<cmath>
+	<math.h>
+	<fstream>
+	<iostream>
+	<vector>
+
+1609858659 source:d:\bioinformatcis 3 (1)\graphic\new folder\graphics project\main.cpp
+	<map>
+	<tchar.h>
+	<windows.h>
+	<cmath>
+	<math.h>
+	<fstream>
+	<iostream>
+	<vector>
+
+1610414944 source:c:\users\sfahg\onedrive\desktop\graphics project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+	<math.h>
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+
+1610405699 source:f:\study\bioinformatics\level 3\term 1\grapichs\graphics project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+	<math.h>
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+
+1610414944 source:c:\users\mohamad idrees\desktop\graphics project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+	<math.h>
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+
+1610415530 source:d:\bioinformatcis 3 (1)\graphic\graphics project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+	<math.h>
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+
